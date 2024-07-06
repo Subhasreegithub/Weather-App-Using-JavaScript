@@ -1,7 +1,7 @@
 # Weather-App-Using-JavaScript
 <h2>Front End:</h2>
     <font size="4px">
-<b>Tech Stack Used:</b> HTML, CSS, JavaScript
+<b>Tech Stack Used:</b> HTML, CSS, JavaScript<br>
 <b>APIs:</b> OpenWeatherMap API</font>
 
 <h2>Description:</h2>
